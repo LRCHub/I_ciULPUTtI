@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "武士道（feat. jny spike）",
+  "base_artist": "神風",
+  "createdAt": "2026-01-05T07:42:54.442146Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "武士道 (feat. jny spike)",
+      "artist": "神風",
+      "has_synced": false,
+      "path": "select/pl_01_武士道_(feat._jny_spike)_神風.txt"
+    }
+  ]
+}
